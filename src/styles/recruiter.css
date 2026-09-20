@@ -1,0 +1,39 @@
+/* ==========================================================================
+   RECRUITER MODE & PRINT STYLES
+   High-contrast, clean layout, optimized for recruiter scanning & PDF printing.
+   ========================================================================== */
+
+.recruiter-mode-active {
+  background-color: #0b1120 !important;
+}
+
+/* Print Optimization */
+@media print {
+  body {
+    background: #ffffff !important;
+    color: #000000 !important;
+  }
+
+  #navbar, #boot-sequence-overlay, #neural-bg-canvas, #command-palette-modal,
+  .no-print, button, #recruiter-mode-exit {
+    display: none !important;
+  }
+
+  #smart-resume-preview, #recruiter-mode-overlay {
+    display: block !important;
+    position: static !important;
+    width: 100% !important;
+    background: #ffffff !important;
+    color: #000000 !important;
+    border: none !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+  }
+
+  #smart-resume-preview * {
+    color: #000000 !important;
+    border-color: #cccccc !important;
+    background: transparent !important;
+    box-shadow: none !important;
+  }
+}

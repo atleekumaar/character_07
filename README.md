@@ -43,14 +43,6 @@ It merges **Cinematic Sci-Fi × Apple-level minimalism × Three.js WebGL spatial
 
 ---
 
-## 🌐 Live Public Links
-
-- **Live Website (GitHub Pages):** [https://atleekumaar.github.io/character-07-portfolio/](https://atleekumaar.github.io/character-07-portfolio/)
-- **1-Click Deploy on Vercel:** [Deploy on Vercel](https://vercel.com/new/clone?repository-url=https://github.com/atleekumaar/character-07-portfolio)
-- **GitHub Repository:** [https://github.com/atleekumaar/character-07-portfolio](https://github.com/atleekumaar/character-07-portfolio)
-
----
-
 ## 💻 Local Development
 
 Run with the high-performance FastAPI server:

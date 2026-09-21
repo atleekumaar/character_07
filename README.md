@@ -1,10 +1,7 @@
-# ATLEE // CHARACTER-07
+# ATLEE // CHARACTER-07 |# [Live Web App](https://character07.vercel.app/)
 
 > **“A human engineer building intelligent systems in a world increasingly shaped by machines.”**
 
-[![Live Portfolio](https://img.shields.io/badge/Live_Site-GitHub_Pages-00f0ff?style=for-the-badge&logo=github)](https://atleekumaar.github.io/character-07-portfolio/)
-[![Deploy with Vercel](https://img.shields.io/badge/Deploy-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/new/clone?repository-url=https://github.com/atleekumaar/character-07-portfolio)
-[![Status](https://img.shields.io/badge/Character-ACTIVE_//_07-10b981?style=for-the-badge)](https://atleekumaar.github.io/character-07-portfolio/)
 
 ---
 
